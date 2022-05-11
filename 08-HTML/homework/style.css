@@ -1,0 +1,33 @@
+
+body {
+    background-image: url(https://assets.soyhenry.com/logoOG.png);
+}
+h1{
+    color : #1000bd;
+}
+h3, h4{
+    color: rgb(255, 0, 72);
+
+}
+
+.divClass{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: #b98a58;
+    padding: 50px;
+    border: 5px solid #bd5800;
+    margin: auto;
+ 
+}
+
+#spanId{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
